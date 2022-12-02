@@ -39,6 +39,29 @@ report 50000 "BOU"
             {
 
             }
+            column(Bill_to_Name; "Bill-to Name")
+            {
+
+            }
+            column(Bill_to_Name_2; "Bill-to Name 2")
+            {
+
+            }
+            column(Bill_to_Address; "Bill-to Address")
+            {
+
+            }
+            column(Bill_to_City; "Bill-to City")
+            {
+
+            }
+            column(Bill_to_Post_Code; "Bill-to Post Code")
+            {
+
+            }
+            column(Your_Reference; "Your Reference") { }
+            column(Work_Description; "Work Description") { }
+
             dataitem("Sales Line"; "Sales Line")
             {
                 DataItemLink = "Document No." = field("No.");
@@ -48,6 +71,10 @@ report 50000 "BOU"
 
                 }
                 column(No_SalesLine; "No.")
+                {
+
+                }
+                column(Description; Description)
                 {
 
                 }
@@ -73,6 +100,7 @@ report 50000 "BOU"
                 }
             }
         }
+
         dataitem("Company Information"; "Company Information")
         {
             column(Name; Name)

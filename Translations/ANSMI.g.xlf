@@ -8,6 +8,51 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report BOU - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 2354613894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Accruals from Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please set “Analyze till the Date”</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please set “Accrual Posting Date”</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - Control 2173539273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accrual Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Control AccrualPostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - Control 978925336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze till the Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Control AnalyzeTillTheDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - Control 3117834186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Control DocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2354613894 - Control 874555607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group by Expense Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SMA Accruals from Purchase - Control GroupByExpenseAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 45687838 - Action 58809036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>BOU report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardPageExt - Action BOU - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>

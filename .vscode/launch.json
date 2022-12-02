@@ -11,7 +11,7 @@
             "serverInstance": "EducationAcademy19",
             "authentication": "Windows",
             "port": 7149,
-            "startupObjectId": 22,
+            "startupObjectId": 9305,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
